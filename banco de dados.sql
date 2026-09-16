@@ -1,0 +1,1 @@
+SELECT * FROM fatec.cliente;
